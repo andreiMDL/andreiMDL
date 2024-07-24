@@ -1,16 +1,14 @@
-## Hi there 👋
+### Olá! Me chamo Andrei Moda de Lima!👋    
 
-<!--
-**andreiMDL/andreiMDL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andreimdl/)
 
-Here are some ideas to get you started:
+![AndreiMDL GitHub stats](https://github-readme-stats.vercel.app/api?username=andreiMDL&show_icons=true&theme=gruvbox)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreiMDL)](https://github.com/anuraghazra/github-readme-stats)
+
+## Tecnologias
+
+<div style="display: inline_block"><br/>
+    <img aling="center" alt="hmtl5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+</div>
