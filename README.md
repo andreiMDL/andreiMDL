@@ -2,9 +2,9 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andreimdl/)
 
-![AndreiMDL GitHub stats](https://github-readme-stats.vercel.app/api?username=andreiMDL&show_icons=true&theme=gruvbox)
+![AndreiMDL GitHub stats](https://github-readme-stats.vercel.app/api?username=andreiMDL&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreiMDL)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreiMDL&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias
 
