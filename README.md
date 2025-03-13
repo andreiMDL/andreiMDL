@@ -98,6 +98,23 @@ Me chamo Andrei Moda de Lima, tenho 21 anos e sou de Curitiba - PR. Atualmente, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"
 />
+<img 
+    align="left" 
+    alt="Playwright" 
+    title="Playwright"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"          
+/>
+<img 
+    align="left" 
+    alt="Vitest" 
+    title="Vitest"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg"        
+/>
+
 
 <br/>
 <br/>
