@@ -1,4 +1,4 @@
-# 👩🏻‍💻 LAndrei Moda de Lima
+# 👩🏻‍💻 Andrei Moda de Lima
 
 **`Desenvolvedor FullStack`**
 
