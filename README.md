@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Andrei Moda de Lima, tenho 21 anos e sou de Curitiba - PR. Atualmente, estou cursando Engenharia de Software na UniCesumar. Sou apaixonado por tecnologia e gosto de aprender cada vez mais.
+Me chamo Andrei Moda de Lima, tenho 22 anos e sou de Curitiba - PR. Atualmente, estou cursando Engenharia de Software na UniCesumar. Sou apaixonado por tecnologia e gosto de aprender cada vez mais.
 
 <p align="left">
     <a href="https://github.com/andreiMDL?tab=repositories&sort=stargazers">
